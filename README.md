@@ -1,17 +1,36 @@
-# cpmk3_paket3
+# 🚀 Portofolio Flutter (GetX)
 
-A new Flutter project.
+Proyek ini merupakan aplikasi portofolio sederhana berbasis **Flutter** dengan **state management GetX**. Aplikasi menampilkan halaman personal seperti **Home, About, Contact, Pendidikan, Pengalaman, dan Keahlian**, serta navigasi menggunakan **Drawer + GetX Routing**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📽️ Demo Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/c161cf46-5079-4913-b0aa-ca4dd4c4d74c
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Pemmob_CPMK3_Portofolio
+
+---
+
+## 🗂️ Fitur dalam Demo
+
+| Halaman    | Fungsi             |
+| ---------- | ------------------ |
+| Home       | Tampilan utama     |
+| About      | Informasi pribadi  |
+| Contact    | Informasi kontak   |
+| Pendidikan | Riwayat pendidikan |
+| Pengalaman | Daftar pengalaman  |
+| Keahlian   | Skill/kemampuan    |
+
+📎 Navigasi halaman dilakukan melalui **Drawer dengan GetX Routing**.
+
+---
+
+## ✨ Teknologi & Tools
+
+* Flutter
+* GetX (State Management & Routing)
+* Material Design UI
+
+---
