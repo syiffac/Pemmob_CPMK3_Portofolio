@@ -7,7 +7,11 @@ Proyek ini merupakan aplikasi portofolio sederhana berbasis **Flutter** dengan *
 ## 📽️ Demo Aplikasi
 
 
-https://github.com/user-attachments/assets/c161cf46-5079-4913-b0aa-ca4dd4c4d74c
+
+
+https://github.com/user-attachments/assets/2a2995bf-e153-4901-ba33-d336ab92828f
+
+
 
 
 ---
